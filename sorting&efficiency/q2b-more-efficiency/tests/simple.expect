@@ -1,0 +1,9 @@
+[]
+INFO: 1 inserted into sorted array.
+INFO: 8 inserted into sorted array.
+INFO: 2 inserted into sorted array.
+INFO: 5 inserted into sorted array.
+[1, 2, 5, 8]
+INFO: 2 inserted into sorted array.
+INFO: 8 removed from sorted array.
+[1, 2, 2, 5]
